@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1487188622 source:c:\dictionary problem trie\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
